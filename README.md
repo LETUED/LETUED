@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![이미지 대체 텍스트](img/호신술-비킴.gif){: width="50%" height="50%"}
+<img src="img/호신술-비킴.gif" width="50%" height="50%"/>
 
 ### 주의 사항
 - 왁굳형 뱅온하면 사라집니다.
