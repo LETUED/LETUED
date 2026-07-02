@@ -4,8 +4,10 @@
 *Collect data, form hypotheses, verify with statistics — and when the answer is no, write that down too.*
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LETUED&show_icons=true&rank_icon=github" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LETUED&layout=compact&langs_count=6" height="160" alt="langs"/>
+  <img src="https://streak-stats.demolab.com?user=LETUED&hide_border=true&date_format=Y-m-d" height="160" alt="streak"/>
+</p>
+<p>
+  <img src="https://ghchart.rshah.org/LETUED" width="100%" alt="contributions"/>
 </p>
 
 ## 대표 프로젝트
