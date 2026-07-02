@@ -3,10 +3,6 @@
 데이터를 모으고, 가설을 세우고, 통계로 검증한다. 안 되는 것은 안 된다고 기록한다.
 *Collect data, form hypotheses, verify with statistics — and when the answer is no, write that down too.*
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=LETUED&hide_border=true&date_format=Y-m-d" height="160" alt="streak"/>
-</p>
-
 ## 대표 프로젝트
 
 ### [coinrandom](https://github.com/LETUED/coinrandom) — 시장 데이터 기반 난수 라이브러리
