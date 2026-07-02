@@ -6,9 +6,6 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=LETUED&hide_border=true&date_format=Y-m-d" height="160" alt="streak"/>
 </p>
-<p>
-  <img src="https://ghchart.rshah.org/LETUED" width="100%" alt="contributions"/>
-</p>
 
 ## 대표 프로젝트
 
