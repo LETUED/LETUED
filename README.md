@@ -42,6 +42,7 @@
 | 2026 | [Entropy_Crypto](https://github.com/LETUED/Entropy_Crypto) ★ | 엔트로피 트레이딩 정량 연구 (위) |
 | 2026 | [coinrandom](https://github.com/LETUED/coinrandom) ★ | 시장 데이터 기반 난수 라이브러리, PyPI (위) |
 | 2025 | [LETRADE_V1](https://github.com/LETUED/LETRADE_V1) ★ | 마이크로서비스 트레이딩 시스템 (위) |
+| 2025 | [crypto-trader-bot](https://github.com/LETUED/crypto-trader-bot) | Freqtrade 듀얼 전략 봇 — 48조합 백테스트, Docker/Telegram |
 | 2024 | [CCProject](https://github.com/LETUED/CCProject) | CI/CD 자동화 CLI — PyPI `ci-cd-tool`, 캡스톤 |
 | 2024 | [PCBS](https://github.com/LETUED/PCBS) | 코인 백테스트 시스템 — backtrader 백엔드 + React 대시보드 |
 | 2023 | [thefish_src](https://github.com/LETUED/thefish_src) | AI 어종 분류 데스크톱 앱 — ResNet50 전이학습 + PyQt5 + SQLite 백과사전 |
