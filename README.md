@@ -49,4 +49,4 @@
 
 ## 연락처
 
-woo9910203626@gmail.com
+woo9910203626@gmail.com,dglsts5387@naver.com
