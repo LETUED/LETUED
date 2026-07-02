@@ -9,7 +9,7 @@
 암호화폐 시장의 예측 불가능성을 엔트로피 소스로 쓰는 Python 라이브러리. PyPI 배포·유지보수 중.
 *A verifiable random-number library seeded by live crypto-market entropy. Published on PyPI.*
 
-- `pip install coinrandom` — v2.0.1, 엔트로피 소스 7종 (거래소 3 + ETH/BTC/SOL 블록 + Uniswap V3)
+- `pip install coinrandom` — v2.0.1, 멀티소스 엔트로피 (거래소 3 + ETH·BTC·SOL 블록, ETH에 Uniswap V3 swap 포함)
 - 병렬 I/O로 수집 지연 ~17초 → ~2초, 커넥션 풀링으로 반복 호출 처리량 ~44% 개선
 - 오프라인 pytest 매트릭스(Python 3.10–3.13) CI + 태그 푸시 시 OIDC로 PyPI 자동 배포
 
