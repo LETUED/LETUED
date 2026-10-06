@@ -42,6 +42,18 @@
 | 2024 | [PCBS](https://github.com/LETUED/PCBS) | 코인 백테스트 시스템 — backtrader 백엔드 + React 대시보드 |
 | 2023 | [thefish_src](https://github.com/LETUED/thefish_src) | AI 어종 분류 데스크톱 앱 — ResNet50 전이학습 + PyQt5 + SQLite 백과사전 |
 
+<details>
+<summary>👀 여기를 클릭했다면</summary>
+
+좋아, 호기심 많은 사람이구나.
+
+🏆 **ACHIEVEMENT UNLOCKED: Lazy Bastard**
+*직접 찾는 대신 README를 자동 스캔하듯 뒤진 자에게 주는 칭호.*
+
+`coinrandom`에도 비슷한 걸 숨겨뒀어. 직접 찾아봐.
+
+</details>
+
 ## 연락처
 
 woo9910203626@gmail.com,dglsts5387@naver.com
