@@ -24,8 +24,9 @@
 기존 프레임워크 없이 메시지버스 기반으로 밑바닥부터 설계한 자동거래 인프라.
 *A from-scratch microservice trading system — RabbitMQ, PostgreSQL, CCXT, FastAPI.*
 
-- 거래 실행 경로 0.86ms 실측, 메시지 처리량 15,000 msg/s, 24시간 연속 테스트 가용성 99.9%
-- 서비스 6종 (Core Engine / Strategy Worker / Capital Manager / Exchange Connector 외), 테스트 232케이스
+- 연속 안정성 테스트 약 8.9시간, 31,989 연산에서 성공률 99.9% (실행 로그 기준)
+- 거래 실행 경로 지연은 컴포넌트별 지연을 합산한 추정치 약 0.86ms (실측 아님)
+- 서비스 6종 (Core Engine / Strategy Worker / Capital Manager / Exchange Connector 외), pytest 테스트 약 170개
 
 ## 프로젝트 인덱스
 
