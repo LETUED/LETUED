@@ -20,6 +20,13 @@
 - Walk-forward 6구간, 순열검정 10,000회, 블록 부트스트랩 5,000회, LightGBM+SHAP 피처 분석
 - 초기 Sharpe +1.391이 측정 인플레이션임을 거래단위 재측정으로 자가 규명 — 반증 과정 전체가 [RESEARCH_LOG](https://github.com/LETUED/Entropy_Crypto/blob/main/docs/RESEARCH_LOG.md)에 기록돼 있음
 
+### [D_QR](https://github.com/LETUED/D_QR) — 다차원 QR 코드 연구
+QR의 "모듈당 1비트" 한계를 넘기 위해 모듈을 스칼라에서 벡터로 확장한 자체 연구.
+*A research project that extends QR modules from 1 bit to vectors — hexagonal grids, RS erasure decoding, progressive disclosure.*
+
+- 육각 격자, RS 소거 복호, 점진 공개 구조를 갖춘 인코더·디코더 CLI
+- 왕복(encode→decode) 테스트 18종, 벤치마크 스크립트 11종, 연구 문서 13편 (특허 FTO 분석 포함)
+
 ### [LETRADE_V1](https://github.com/LETUED/LETRADE_V1) — 마이크로서비스 트레이딩 시스템
 기존 프레임워크 없이 메시지버스 기반으로 밑바닥부터 설계한 자동거래 인프라.
 *A from-scratch microservice trading system — RabbitMQ, PostgreSQL, CCXT, FastAPI.*
@@ -33,7 +40,7 @@
 |---|---|---|
 | 2026 | [Thesis](https://github.com/LETUED/Thesis) | 투자판단 SaaS — FastAPI + Supabase + Stripe (DevOps 학습 후 재개 예정) |
 | 2026 | [polymarket-bot](https://github.com/LETUED/polymarket-bot) | 예측시장 엣지 검증 드라이런 프레임워크 — 프랙셔널 켈리, Brier 판정 |
-| 2026 | [D_QR](https://github.com/LETUED/D_QR) | 다차원 QR 코드 연구 — 육각 격자, RS 소거정정, 점진 공개 |
+| 2026 | [D_QR](https://github.com/LETUED/D_QR) ★ | 다차원 QR 코드 연구 — 육각 격자, RS 소거 복호, 점진 공개 (위) |
 | 2026 | [Entropy_Crypto](https://github.com/LETUED/Entropy_Crypto) ★ | 엔트로피 트레이딩 정량 연구 (위) |
 | 2026 | [coinrandom](https://github.com/LETUED/coinrandom) ★ | 시장 데이터 기반 난수 라이브러리, PyPI (위) |
 | 2025 | [LETRADE_V1](https://github.com/LETUED/LETRADE_V1) ★ | 마이크로서비스 트레이딩 시스템 (위) |
