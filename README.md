@@ -31,7 +31,7 @@
 
 | 시기 | 프로젝트 | 한 줄 |
 |---|---|---|
-| 2026 | [Thesis](https://github.com/LETUED/Thesis) | 투자판단 SaaS — FastAPI + Supabase + Stripe (개발 중) |
+| 2026 | [Thesis](https://github.com/LETUED/Thesis) | 투자판단 SaaS — FastAPI + Supabase + Stripe (DevOps 학습 후 재개 예정) |
 | 2026 | [polymarket-bot](https://github.com/LETUED/polymarket-bot) | 예측시장 엣지 검증 드라이런 프레임워크 — 프랙셔널 켈리, Brier 판정 |
 | 2026 | [D_QR](https://github.com/LETUED/D_QR) | 다차원 QR 코드 연구 — 육각 격자, RS 소거정정, 점진 공개 |
 | 2026 | [Entropy_Crypto](https://github.com/LETUED/Entropy_Crypto) ★ | 엔트로피 트레이딩 정량 연구 (위) |
@@ -55,4 +55,4 @@
 
 ## 연락처
 
-woo9910203626@gmail.com,dglsts5387@naver.com
+woo9910203626@gmail.com · dglsts5387@naver.com
